@@ -1,23 +1,9 @@
 {
   "name": "english-conversation-app",
   "version": "1.0.0",
-  "description": "AI英会話・言語交換支援アプリ",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
   "dependencies": {
     "next": "14.0.3",
     "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "lucide-react": "0.294.0"
-  },
-  "devDependencies": {
-    "autoprefixer": "10.4.16",
-    "postcss": "8.4.32",
-    "tailwindcss": "3.3.6"
+    "react-dom": "18.2.0"
   }
 }
